@@ -49,3 +49,6 @@ As Diretrizes de Impacto na Comunidade foram inspiradas pela [Aplicação do có
 
 Para obter respostas a perguntas comuns sobre este código de conduta, veja a página de Perguntas Frequentes (*FAQ*) em
 https://www.contributor-covenant.org/faq.
+
+***
+Made with ♥ by IFPE Open Source! :sandwich:
